@@ -10,6 +10,19 @@
 ![DVC](https://img.shields.io/badge/DVC-3.50-945DD6)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
+**CI Status**
+
+[![MLOps Tournament CI/CD](https://github.com/jumma786/mlops-model-tournament/actions/workflows/tournament.yml/badge.svg)](https://github.com/jumma786/mlops-model-tournament/actions)
+[![Retraining Pipeline CI/CD](https://github.com/jumma786/mlops-retraining-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/jumma786/mlops-retraining-pipeline/actions)
+[![Feature Pipeline CI/CD](https://github.com/jumma786/mlops-feature-pipeline/actions/workflows/feature_pipeline.yml/badge.svg)](https://github.com/jumma786/mlops-feature-pipeline/actions)
+[![Hyperparameter Tuning CI/CD](https://github.com/jumma786/mlops-hyperparameter-tuning/actions/workflows/tuning.yml/badge.svg)](https://github.com/jumma786/mlops-hyperparameter-tuning/actions)
+[![Model Serving CI/CD](https://github.com/jumma786/mlops-model-serving/actions/workflows/serving.yml/badge.svg)](https://github.com/jumma786/mlops-model-serving/actions)
+[![Feature Store CI/CD](https://github.com/jumma786/mlops-feature-store/actions/workflows/feature_store.yml/badge.svg)](https://github.com/jumma786/mlops-feature-store/actions)
+[![Model Monitoring CI/CD](https://github.com/jumma786/mlops-model-monitoring/actions/workflows/monitoring.yml/badge.svg)](https://github.com/jumma786/mlops-model-monitoring/actions)
+[![A/B Testing CI/CD](https://github.com/jumma786/mlops-ab-testing/actions/workflows/ab_testing.yml/badge.svg)](https://github.com/jumma786/mlops-ab-testing/actions)
+[![Airflow Pipeline CI/CD](https://github.com/jumma786/mlops-airflow-pipeline/actions/workflows/pipeline.yml/badge.svg)](https://github.com/jumma786/mlops-airflow-pipeline/actions)
+[![K8s Platform CI/CD](https://github.com/jumma786/mlops-k8s-platform/actions/workflows/k8s.yml/badge.svg)](https://github.com/jumma786/mlops-k8s-platform/actions)
+
 > End-to-end MLOps pipeline built across 10 standalone projects — from automated model selection through hyperparameter search, containerised serving, feature stores, drift monitoring, A/B testing, Airflow orchestration, and Kubernetes deployment. Every project has GitHub Actions CI/CD and pytest coverage.
 >
 > **Champion model:** XGBoost on UCI Bank Marketing — 0.82 AUC, 41,188 rows, 19 features.
