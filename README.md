@@ -1,14 +1,14 @@
 # MLOps Portfolio — 10-Project Series
 
-![Python](https://img.shields.io/badge/Python-3.11%2B-blue)
-![MLflow](https://img.shields.io/badge/MLflow-3.13-orange)
-![Airflow](https://img.shields.io/badge/Airflow-2.9-red)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-ready-326CE5)
-![Docker](https://img.shields.io/badge/Docker-ready-2496ED)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.111-009688)
-![Optuna](https://img.shields.io/badge/Optuna-3.6-purple)
-![DVC](https://img.shields.io/badge/DVC-3.50-945DD6)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+[![Python](https://img.shields.io/badge/Python-3.11%2B-blue)](https://www.python.org/)
+[![MLflow](https://img.shields.io/badge/MLflow-3.13-orange)](https://mlflow.org/)
+[![Airflow](https://img.shields.io/badge/Airflow-2.9-red)](https://airflow.apache.org/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-ready-326CE5)](https://kubernetes.io/)
+[![Docker](https://img.shields.io/badge/Docker-ready-2496ED)](https://www.docker.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.111-009688)](https://fastapi.tiangolo.com/)
+[![Optuna](https://img.shields.io/badge/Optuna-3.6-purple)](https://optuna.org/)
+[![DVC](https://img.shields.io/badge/DVC-3.50-945DD6)](https://dvc.org/)
+[![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
 
 **CI Status**
 
