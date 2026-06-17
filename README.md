@@ -23,6 +23,8 @@
 [![Airflow Pipeline CI/CD](https://github.com/jumma786/mlops-airflow-pipeline/actions/workflows/pipeline.yml/badge.svg)](https://github.com/jumma786/mlops-airflow-pipeline/actions)
 [![K8s Platform CI/CD](https://github.com/jumma786/mlops-k8s-platform/actions/workflows/k8s.yml/badge.svg)](https://github.com/jumma786/mlops-k8s-platform/actions)
 
+**[Explore the Interactive Architecture Dashboard](https://jumma786.github.io/mlops-portfolio-dashboard/)** — 396 nodes, 437 edges, 8 architectural layers, 12-step guided tour
+
 > End-to-end MLOps pipeline built across 10 standalone projects — from automated model selection through hyperparameter search, containerised serving, feature stores, drift monitoring, A/B testing, Airflow orchestration, and Kubernetes deployment. Every project has GitHub Actions CI/CD and pytest coverage.
 >
 > **Champion model:** XGBoost on UCI Bank Marketing — 0.82 AUC, 41,188 rows, 19 features.
